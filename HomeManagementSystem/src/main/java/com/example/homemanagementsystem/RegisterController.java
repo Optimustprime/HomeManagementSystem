@@ -1,2 +1,4 @@
-package com.example.homemanagementsystem;public class RegisterController {
+package com.example.homemanagementsystem;
+
+public class RegisterController {
 }
